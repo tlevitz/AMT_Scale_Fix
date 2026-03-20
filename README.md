@@ -49,5 +49,5 @@ ___
 Original image on left, "fixed" image on right; correct scale and units automatically detected by ImageJ
 
 <img width="1535" height="730" alt="image" src="https://github.com/user-attachments/assets/59a1010d-bdb0-4f54-a7fe-29ecc30ebc43" />
-_
-This script was generated with the assistance of GPT4DFCI, a private, HIPAA-secure endpoint to GPT-4o provided by Dana-Farber Cancer Institute_
+
+_This script was generated with the assistance of GPT4DFCI, a private, HIPAA-secure endpoint to GPT-4o provided by Dana-Farber Cancer Institute_
