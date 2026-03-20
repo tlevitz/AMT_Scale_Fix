@@ -27,7 +27,10 @@ This is a Windows app that moves the scaling factors from the AMT tag location t
 
 ## Running the Program
 
-1. Double-click on the script
+1. Double-click on the script on the Desktop or in the File Explorer, or in cmd run (while standing in the directory you have the script):
+   ```cmd
+   python amt_tiff_scale_fix.py
+   ```
 2. Click Browse to choose a directory containing .tifs that you wish to update scale tags on. **Any .tif files in this directory and in all subdirectories will be converted.**
 3. Choose if you want to overwrite the original files or generate a copy of the original saved with the suffix *_fixed.tif. If you overwrite the original files, you can choose to save them as *.bak files or do a simple overwrite.
 4. Click run
